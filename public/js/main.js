@@ -6,3 +6,14 @@ var config = {
     storageBucket: "jogodaacentuacao.appspot.com",
 };
 firebase.initializeApp(config);
+
+puzzles = [{
+    value:""
+},{
+    value:""
+}];
+puzzle = puzzles[Math.floor(Math.random()*puzzles.length)];
+
+window.onload = function() {
+
+}
