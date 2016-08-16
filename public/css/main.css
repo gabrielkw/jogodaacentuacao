@@ -56,33 +56,6 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-.highlightOnHover {
-    background-color: none;
-}
-
-.highlightOnHover:hover {
-    background-color: lightgrey;
-}
-
-#puzzleCard {
-    text-align: center;
-}
-
-#puzzleText {
-    font-size: 5em;
-    margin-bottom: 128px;
-}
-
-.options {
-    width: 64px;
-    height: 64px;
-    float: left;
-}
-
-#options {
-    font-size: 5em;
-}
-
 
 /* ==========================================================================
    Media Queries
